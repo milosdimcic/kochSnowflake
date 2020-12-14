@@ -1,0 +1,6 @@
+C:\Dev\Snowflake\Snowflake\obj\Debug\Snowflake.csprojAssemblyReference.cache
+C:\Dev\Snowflake\Snowflake\obj\Debug\Snowflake.csproj.CoreCompileInputs.cache
+C:\Dev\Snowflake\Snowflake\bin\Snowflake.dll
+C:\Dev\Snowflake\Snowflake\bin\Snowflake.pdb
+C:\Dev\Snowflake\Snowflake\obj\Debug\Snowflake.dll
+C:\Dev\Snowflake\Snowflake\obj\Debug\Snowflake.pdb
